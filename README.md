@@ -34,6 +34,11 @@
 
 [ ] Need to finalize transition place for drywall in stairs going to upstairs
 
+### Things I don't love
+
+* The new wall at base of stairs going up.  Seems to me this could be cleaner
+* The framing to support drywall in the peak, especially the bottom right and bottom left corners.
+
 
 ## Front door + front porch + driveway project
 

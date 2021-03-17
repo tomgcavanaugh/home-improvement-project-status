@@ -26,9 +26,12 @@
 
 [ ] I need the change orders for the exhaust vent removal and fusebox replacement to sign
 
+[ ] Need repairs on two front windows
+
+
 ## Front door + front porch + driveway project
 
-[x] Update lighting and add wiring
+- We approve the updated light fixtures, and are happy the wiring has been added
 
 [ ] Change front door back to the three smaller windows
 

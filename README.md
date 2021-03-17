@@ -39,7 +39,7 @@
 
 [ ] Need updated diagram showing a) larger deck b) no cement pad on side of house c) stairway as a 45 degree slice on the corner
 
-(DraftFront.jpg)
+[ ] ![Front View](DraftFront.jpg)
 
 [ ] Updated quote
 

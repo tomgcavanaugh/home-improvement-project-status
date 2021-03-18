@@ -4,11 +4,9 @@
 
 ### Before drywall
 
-[ ] The sewer vent pipe in kitchen was replaced, but is in the same position.  This has to be moved into the wall
+* Sewer vent issue has been resolved
 
-[ ] Wondering if we need to add supports for the right side of shelves for the coat closet
-
-[ ] Can we fill floor gaps around bathroom
+[ ] Patric plans to fill floor gaps around bathroom
 
 ### Electrical needs
 

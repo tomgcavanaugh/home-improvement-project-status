@@ -5,18 +5,23 @@
 ### Before drywall
 
 * Sewer vent issue has been resolved
+* 
 [ ] Patric plans to fill floor gaps around bathroom
 
 ### Electrical needs
 
 * Fusebox has been replaced
-* Outlet for hot water heater installed
-* basement stairs switch
+* Outlet for hot water heater has been installed
+* Basement stairs switch has been fixed
 * Changed upstairs bedroom outlets to grounded (front of house)
+ 
+ [ ] Outlet under circuit box does not work, used for washing machine
 
 ### Plumbing
 
 [ ] Need to install manifold
+
+[ ] Remove old water heater
 
 ### Misc
 
@@ -26,7 +31,6 @@
 
 [ ] Need repairs on two front windows
 
-[ ] Need to finalize transition place for drywall in stairs going to upstairs
 
 ### Things I don't love
 

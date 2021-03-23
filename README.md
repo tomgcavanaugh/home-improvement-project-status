@@ -5,18 +5,14 @@
 ### Before drywall
 
 * Sewer vent issue has been resolved
-
 [ ] Patric plans to fill floor gaps around bathroom
 
 ### Electrical needs
 
-[ ] Replacement of fusebox
-
-[ ] Outlet for hot water heater
-
-[ ] 3 way for basement stairs
-
-[ ] Change upstairs bedroom outlets to grounded (front of house)
+* Fusebox has been replaced
+* Outlet for hot water heater installed
+* basement stairs switch
+* Changed upstairs bedroom outlets to grounded (front of house)
 
 ### Plumbing
 
@@ -36,7 +32,6 @@
 
 * The new wall at base of stairs going up.  Seems to me this could be cleaner
 * The framing to support drywall in the peak, especially the bottom right and bottom left corners.
-
 
 ## Front door + front porch + driveway project
 

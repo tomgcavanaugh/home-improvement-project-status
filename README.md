@@ -42,10 +42,10 @@
 
 ## Front door + front porch + driveway project
 
-- We approve the updated light fixtures, and are happy the wiring has been added to support 2 lights
-- Door selections
-    Front Door - Thermatru smooth-star craftsman lite 2 panel shaker flush-glazed w/ 3 lite simulated divided lites "indigo" 
-    Back Door -  Thermatru smooth star 8' 3/4 Lite 1 panel Flush Glazed "Indigo" 
+  * We approve the updated light fixtures, and are happy the wiring has been added to support 2 lights
+  * Door selections
+    * Front Door - Thermatru smooth-star craftsman lite 2 panel shaker flush-glazed w/ 3 lite simulated divided lites "indigo" 
+    * Back Door -  Thermatru smooth star 8' 3/4 Lite 1 panel Flush Glazed "Indigo" 
 
 
 [ ] Need updated diagram showing a) larger deck b) no cement pad on side of house c) stairway as a 45 degree slice on the corner similar to following.

@@ -17,6 +17,10 @@
  
  [ ] Outlet under circuit box does not work, used for washing machine
 
+### HVAC
+
+[ ]  Need to remove vent section titled "Piano Room"
+
 ### Plumbing
 
 [ ] Need to install manifold
@@ -25,7 +29,7 @@
 
 ### Misc
 
-[ ] Want details on the pantry doors, now that we cannot have the 24" doors originally planned
+* Will be getting 22" doors for pantry
 
 [ ] I need the change orders for the exhaust vent removal and fusebox replacement to sign
 
@@ -34,8 +38,7 @@
 
 ### Things I don't love
 
-* The new wall at base of stairs going up.  Seems to me this could be cleaner
-* The framing to support drywall in the peak, especially the bottom right and bottom left corners.
+* No concerns
 
 ## Front door + front porch + driveway project
 
